@@ -6,7 +6,7 @@
     "RobloxVersionSupported": "version-9dbf9780562444e1",
     "SoftwareVersion": "2.1.1",
     "BootstrapperUrl": "",
-    "SoftwareUrl":"",
+    "SoftwareUrl":"https://github.com/markitos4/Synapse/releases/download/Application/Synapse.zip",
     "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live",
     "Changelog":"[+] Updated to latest roblox version."
 }
