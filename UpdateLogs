@@ -8,7 +8,7 @@
 
   [+] Fixed being detected by roblox in banwaves/injection sometimes.
 
-  [+] Improved init script and added unc. Now it is 90%.
+  [+] Improved init script and added unc. Now it's 90.
 
   [+] Finished script hub.
 
@@ -24,7 +24,11 @@
 
 --[3.0.1]-- (soon) ;
 
+  [+] Updated to the latest roblox version-0000000000000;
+
   [+] Added tabs.
 
   [+] Fixed auto attach.
+
+  [+] Improved unc. Now it's 92.
 
