@@ -1,1 +1,29 @@
+--[3.0.0]-- (soon) ;
+
+  [+] Updated to the latest roblox version-0000000000000;
+
+  [+] Fixed reload attach button.
+
+  [+] Injection takes less and is safer with more checks.
+
+  [+] Fixed being detected by roblox in banwaves/injection sometimes.
+
+  [+] Improved init script and added unc. Now it is 90%.
+
+  [+] Finished script hub.
+
+  [+] Fixed home page injection.
+
+  [+] Less cpu/ram waste.
+
+  [+] Improved code.
+
+  --
+
+  [-] Removed injection notifications and added custom notifications.
+
+--[3.0.1]-- (soon) ;
+
+  [+] Added tabs.
+
 
