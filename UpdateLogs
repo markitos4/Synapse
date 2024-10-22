@@ -8,7 +8,7 @@
 
   [+] Fixed being detected by roblox in banwaves/injection sometimes.
 
-  [+] Improved init script and added unc. Now it's 90.
+  [+] Improved init script (added new functions and fixed some: setscriptable, hookfunc, loadstring, getcustomasset, protos, gethidden and sethiddenproperty, and closures). Now it's 89% UNC.
 
   [+] Finished script hub.
 
