@@ -1,11 +1,11 @@
 {
-    "SynapseVersion": "2.1.4",
+    "SynapseVersion": "2.1.5",
     "HwidsUrl": "https://raw.githubusercontent.com/markitos4/SynXRe/main/Hwids",
     "Endpoint": "https://raw.githubusercontent.com/markitos4/Synapse/refs/heads/main/Endpoint",
     "BootstrapperVersion": "1.2",
-    "RobloxVersionSupported": "version-9dbf9780562444e1",
+    "RobloxVersionSupported": "version-4ffdeb3e393e469e",
     "BootstrapperUrl": "https://github.com/markitos4/Synapse/releases/download/Bootstrapper/Bootstrapper.exe",
     "SoftwareUrl":"https://github.com/markitos4/Synapse/releases/download/Application/Synapse.zip",
     "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live",
-    "Changelog":"[+] Fixed huge bugs."
+    "Changelog":"[+] Updated to the lastest roblox version-4ffdeb3e393e469e."
 }
