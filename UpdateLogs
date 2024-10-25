@@ -20,7 +20,9 @@
 
   --
 
-  [-] Removed injection notifications and added custom notifications.
+  [-] Removed injection notifications and added custom notifications in-game.
+
+  [-] Changed patched messages in application.
 
 --[3.0.1]-- (soon) ;
 
@@ -36,5 +38,5 @@
 
   [+] Fixed and added auto join discord and auto clear editor.
 
-  [+] Shaders supported now!
+  [+] Shaders supported now.
 
