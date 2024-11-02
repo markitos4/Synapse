@@ -6,5 +6,5 @@
     "BootstrapperUrl": "https://github.com/markitos4/Synapse/releases/download/Bootstrapper/Bootstrapper.exe",
     "SoftwareUrl":"https://github.com/markitos4/Synapse/releases/download/Application/Synapse.zip",
     "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live",
-    "Changelog":"[+] Fixed reload-attach, fixed injection/dejection and optimized code. "
+    "Changelog":"[+] Fixed reload-attach, fixed injection/dejection, upgraded unc to 90 and optimized code. "
 }
