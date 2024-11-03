@@ -1,10 +1,10 @@
 {
-    "SynapseVersion": "2.2.0",
+    "SynapseVersion": "2.2.5",
     "HwidsUrl": "https://raw.githubusercontent.com/markitos4/SynXRe/main/Hwids",
     "BootstrapperVersion": "1.3",
     "RobloxVersionSupported": "version-b7eebc919e96477a",
     "BootstrapperUrl": "https://github.com/markitos4/Synapse/releases/download/Bootstrapper/Bootstrapper.exe",
     "SoftwareUrl":"https://github.com/markitos4/Synapse/releases/download/Application/Synapse.zip",
     "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live",
-    "Changelog":"[+] Fixed reload-attach, fixed injection/dejection, upgraded unc to 90 and optimized code. "
+    "Changelog":"[+] Improved all. "
 }
