@@ -2,8 +2,6 @@
 
   [+] Updated to the latest roblox version-0000000000000;
 
-  [+] Fixed reload attach button.
-
   [+] Injection takes less and is safer with more checks.
 
   [+] Fixed being detected by roblox in banwaves/injection sometimes.
@@ -32,9 +30,9 @@
 
   [+] Added tabs.
 
-  [+] Fixed auto attach.
+  [+] Fixed auto attach and reload attach.
 
-  [+] Improved unc. Now it's 92.
+  [+] Improved unc. Now it's 92 (getupvalue/s, setreadonly).
 
   [+] Improved api code.
 
