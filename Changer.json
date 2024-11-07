@@ -1,10 +1,10 @@
 {
-    "SynapseVersion": "1.0.55",
+    "SynapseVersion": "1.1.0",
     "HwidsUrl": "https://raw.githubusercontent.com/markitos4/SynXRe/main/Hwids",
     "BootstrapperVersion": "1",
     "RobloxVersionSupported": "version-0c1a10704cb043cc",
     "BootstrapperUrl": "https://github.com/markitos4/Synapse/releases/download/Bootstrapper/Bootstrapper.exe",
     "SoftwareUrl":"https://github.com/markitos4/Synapse/releases/download/Application/Synapse.zip",
     "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live",
-    "Changelog":"[+] Updated to latest roblox version (version-0c1a10704cb043cc). "
+    "Changelog":"[+] Fixed crashes and some functions. "
 }
