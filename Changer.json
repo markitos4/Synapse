@@ -1,7 +1,7 @@
 {
     "SynapseVersion": "1.3.0",
     "HwidsUrl": "https://raw.githubusercontent.com/markitos4/Synapse/refs/heads/main/Hwids",
-    "BootstrapperVersion": "1.1",
+    "BootstrapperVersion": "1.15",
     "RobloxVersionSupported": "version-b7eebc919e96477a",
     "BootstrapperUrl": "https://github.com/markitos4/Synapse/releases/download/Bootstrapper/Bootstrapper.exe",
     "SoftwareUrl":"https://github.com/markitos4/Synapse/releases/download/Application/Synapse.zip",
