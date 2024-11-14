@@ -1,8 +1,8 @@
 {
-    "SynapseVersion": "1.3.5",
+    "SynapseVersion": "1.4.0",
     "HwidsUrl": "https://raw.githubusercontent.com/markitos4/Synapse/refs/heads/main/Hwids",
     "BootstrapperVersion": "1.20",
-    "RobloxVersionSupported": "version-b7eebc919e96477a",
+    "RobloxVersionSupported": "version-32f36ac944b34913",
     "BootstrapperUrl": "https://github.com/markitos4/Synapse/releases/download/Bootstrapper/Bootstrapper.exe",
     "SoftwareUrl":"https://github.com/markitos4/Synapse/releases/download/Application/Synapse.zip",
     "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live",
