@@ -1,5 +1,5 @@
 {
-    "SynapseVersion": "2.0.5",
+    "SynapseVersion": "2.1.0",
     "HwidsUrl": "https://raw.githubusercontent.com/markitos4/Synapse/refs/heads/main/Hwids",
     "BootstrapperVersion": "1.45",
     "RobloxVersionSupported": "version-b71c150c7c1f40de",
