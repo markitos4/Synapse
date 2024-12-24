@@ -1,6 +1,6 @@
 {
-    "SynapseVersion": "2.1.0",
-    "BootstrapperVersion": "1.50",
+    "SynapseVersion": "2.1.5",
+    "BootstrapperVersion": "1.55",
     "BootstrapperUrl": "https://github.com/markitos4/Synapse/releases/download/Bootstrapper/Bootstrapper.exe",
     "Download":"https://github.com/markitos4/Synapse/releases/download/Application/Synapse.zip",
     "Changelog":"[+] Check discord server for more information. "
