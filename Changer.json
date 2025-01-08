@@ -1,5 +1,5 @@
 {
-    "SynapseVersion": "2.1.5",
+    "SynapseVersion": "2.1.5F",
     "BootstrapperVersion": "1.55",
     "BootstrapperUrl": "https://github.com/markitos4/Synapse/releases/download/Bootstrapper/Bootstrapper.exe",
     "Download":"https://github.com/markitos4/Synapse/releases/download/Application/Synapse.zip",
